@@ -8,3 +8,7 @@ Platformre scripts :wink:
 - [platformre test](https://sheeptester.github.io/platformre/levelplaytest.html)
 
 - [level editor test](https://sheeptester.github.io/platformre/levelmaker.html)
+
+you can submit level on sean.
+
+remix on sean platformre.
