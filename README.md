@@ -1,3 +1,11 @@
+# If you see this:
+
+means the web is still under development.
+
+coming soon...
+
+# origin document
+
 # platformre
 Platformre scripts :wink:
 
